@@ -19,8 +19,8 @@ title: Home
     </p>
     <p style="margin-top:1rem;">
       <strong>PhD Student, University of Rochester</strong><br>
-      My research investigates TAMP categories in Benue-Congo languages. I also develop and evaluate computational
-      tools for <em>Automatic Speech Recognition (ASR)</em> and linguistic analysis in low-resource languages.
+      My research investigates TAMP categories in Benue-Congo languages. I also develop and evaluate deep learning
+      models for <em>Automatic Speech Recognition (ASR)</em> and linguistic analysis especially in low-resource languages.
     </p>
 
     <!-- Links -->
@@ -37,13 +37,14 @@ title: Home
 
 ### Welcome!
 
-I am a PhD student in the Department of Linguistics at the University of Rochester. I am passionate about documenting under-described languages of West Africa, making data available for the community, researchers, and improvement in language technologies. 
+I am passionate about documenting and describing understudied languages; making data available for the community, researchers, and improvement in language technologies. 
 
 My work spans **fieldwork, morphosyntax, tone**, and **deep-learning approaches** to language documentation and description.
 
 ---
 
 ### News
+- **Sept 2025 —** Presented at the University of Rochester's Omnibus Meeting.
 - **June 2025 —** Began data collection for Uneme  documentation.
 - **June 2025 —** Organized training on documentation methods in Nigeria.
 - **June 2025 —** Awarded the Donald M. and Janet C. Barnard Fellowship
@@ -64,7 +65,7 @@ My work spans **fieldwork, morphosyntax, tone**, and **deep-learning approaches*
 <div style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;">
   <figure style="flex:1;min-width:260px;text-align:center;">
     <img src="/assets/img/IMG_4995.JPG" alt="Fieldwork session 1" style="width:100%;border-radius:12px;">
-    <figcaption style="font-size:.9rem;color:#666;">Recording session — Uneme-Ekpedo (2025)</figcaption>
+    <figcaption style="font-size:.9rem;color:#666;">David and Kehinde during a recording session — Uneme-Ekpedo (2025)</figcaption>
   </figure>
   <figure style="flex:1;min-width:260px;text-align:center;">
     <img src="/assets/img/IMG_5015.JPG" alt="Fieldwork session 2" style="width:100%;border-radius:12px;">
