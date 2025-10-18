@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    {%- seo -%}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 1.5rem;
+            line-height: 1.6;
+            font-family: system-ui, -apple-system, Segoe UI, Roboto
+        }
+
+        header {
+            margin: 0 0 1.5rem 0
+        }
+
+        nav a {
+            margin-right: 1rem;
+            text-decoration: none
+        }
+
+        .hero {
+            padding: 3rem 1rem;
+            color: #fff;
+            border-radius: 12px;
+            margin-bottom: 2rem;
+            background: linear-gradient(135deg, #1f6feb, #2ea043);
+            text-align: center
+        }
+
+        .hero h1 {
+            margin: .2rem 0 0 0;
+            font-size: 2.2rem
+        }
+
+        .sub {
+            opacity: .9;
+            margin-top: .2rem
+        }
+
+        img.round {
+            border-radius: 50%;
+            max-width: 160px
+        }
+
+        footer {
+            margin-top: 2rem;
+            color: #666;
+            font-size: .9rem
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="{{ '/' | relative_url }}">Home</a>
+            <a href="{{ '/research' | relative_url }}">Research</a>
+            <a href="{{ '/publications' | relative_url }}">Publications</a>
+            <a href="{{ '/cv' | relative_url }}">CV</a>
+        </nav>
+    </header>
+
+    {{ content }}
+
+    <footer>&copy; {{ site.title }} {{ 'now' | date: '%Y' }}</footer>
+</body>
+
+</html>
