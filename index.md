@@ -19,7 +19,7 @@ title: Home
     </p>
     <p style="margin-top:1rem;">
       <strong>PhD Student, University of Rochester</strong><br>
-      My research investigates the interaction between tense, aspect, and polarity in Benue-Congo languages. I also develop and evaluate computational
+      My research investigates the interaction between TAMP categories in Benue-Congo languages. I also develop and evaluate computational
       tools for <em>Automatic Speech Recognition (ASR)</em> and linguistic analysis in low-resource languages.
     </p>
 
@@ -37,7 +37,7 @@ title: Home
 
 ### Welcome!
 
-I am passionate about documenting and describing under-studied languages of West Africa, making data available in these languages for the community, language researchers, and Natural Language Processing. 
+I am passionate about documenting and describing understudied languages of West Africa, making data available in these languages for the community, language researchers, and Natural Language Processing. 
 
 My work spans **fieldwork, morphosyntax, tone**, and **deep-learning approaches** to language documentation.
 
