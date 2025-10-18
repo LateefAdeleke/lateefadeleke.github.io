@@ -48,7 +48,7 @@ My work spans **fieldwork, morphosyntax, tone**, and **deep-learning approaches*
 - **June 2025 —** Organized training on documentation methods in Nigeria.
 - **June 2025 —** Awarded the Donald M. and Janet C. Barnard Fellowship
 - **May 2025 —** Attended ELDP's Language Documentation Training in Berlin.
-- **May 2025 —** Presented at the 56th ACAL at the University of Minnesota.
+- **May 2025 —** Presented at the 56th ACAL, University of Minnesota.
 - **April 2025 —** Awarded the ELDP's Individual Graduate Scholarship to Document Uneme Iron Technology.
 
 
@@ -64,10 +64,22 @@ My work spans **fieldwork, morphosyntax, tone**, and **deep-learning approaches*
 <div style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;">
   <figure style="flex:1;min-width:260px;text-align:center;">
     <img src="/assets/img/IMG_4995.JPG" alt="Fieldwork session 1" style="width:100%;border-radius:12px;">
-    <figcaption style="font-size:.9rem;color:#666;">Recording session — Uneme-Ekpedo (2024)</figcaption>
+    <figcaption style="font-size:.9rem;color:#666;">Recording session — Uneme-Ekpedo (2025)</figcaption>
   </figure>
   <figure style="flex:1;min-width:260px;text-align:center;">
     <img src="/assets/img/IMG_5015.JPG" alt="Fieldwork session 2" style="width:100%;border-radius:12px;">
-    <figcaption style="font-size:.9rem;color:#666;">Team discussion — Uneme-Nekhua (2024)</figcaption>
+    <figcaption style="font-size:.9rem;color:#666;">Elders playing the traditional board game — Uneme-Ekpedo (2025)</figcaption>
+  </figure>
+</div>
+
+<!-- Row 2 -->
+<div style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;">
+  <figure style="flex:1;min-width:260px;text-align:center;">
+    <img src="/assets/img/gbenga.png" style="width:100%;border-radius:12px;">
+    <figcaption style="font-size:.9rem;color:#666;">Elicitation session with Gabriel — Uneme-Ekpedo (2025)</figcaption>
+  </figure>
+  <figure style="flex:1;min-width:260px;text-align:center;">
+    <img src="/assets/img/lawal.png" style="width:100%;border-radius:12px;">
+    <figcaption style="font-size:.9rem;color:#666;">Narrative Session with Hon. Lawal — Uneme-Ekpedo (2025)</figcaption>
   </figure>
 </div>
