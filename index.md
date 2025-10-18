@@ -8,7 +8,7 @@ title: Home
 
   <!-- Profile Image -->
   <div style="flex:0 0 180px;text-align:center;">
-    <img src="/assets/img/IMG_4798.JPG" alt="Lateef Adeleke" style="width:180px;height:180px;border-radius:50%;object-fit:cover;border:4px solid #fff;">
+    <img src="/assets/img/IMG_DBB163E1E59E-1.jpeg" alt="Lateef Adeleke" style="width:180px;height:180px;border-radius:50%;object-fit:cover;border:4px solid #fff;">
   </div>
 
   <!-- Text Section -->
@@ -62,6 +62,6 @@ My work spans **fieldwork, morphosyntax, tone**, and **deep-learning approaches*
 ---
 
 <figure>
-  <img src="/assets/img/IMG_4995.JPG" alt="Fieldwork documentation" width="600" style="border-radius:12px;margin-top:1rem;">
+  <img src="/assets/img/IMG_4995.JPG" alt="Fieldwork documentation" width="800" style="border-radius:12px;margin-top:1rem;">
   <figcaption style="font-size:.9rem;color:#666;">Field recording session, Uneme-Ekpedo (2025)</figcaption>
 </figure>
