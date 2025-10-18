@@ -65,7 +65,7 @@ My work spans **fieldwork, morphosyntax, tone**, and **deep-learning approaches*
 <div style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;">
   <figure style="flex:1;min-width:260px;text-align:center;">
     <img src="/assets/img/IMG_4995.JPG" alt="Fieldwork session 1" style="width:100%;border-radius:12px;">
-    <figcaption style="font-size:.9rem;color:#666;">David and Kehinde during a recording session — Uneme-Ekpedo (2025)</figcaption>
+    <figcaption style="font-size:.9rem;color:#666;">David and Kayode during a recording session — Uneme-Ekpedo (2025)</figcaption>
   </figure>
   <figure style="flex:1;min-width:260px;text-align:center;">
     <img src="/assets/img/IMG_5015.JPG" alt="Fieldwork session 2" style="width:100%;border-radius:12px;">
