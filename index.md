@@ -1,0 +1,16 @@
+---
+layout: default
+title: Home
+---
+
+# Lateef Adeleke
+PhD student, University of Rochester · Linguistics / NLP
+
+**Research areas:** language documentation (Uneme, Uhami, Yoruba), STAMP systems, tone, ASR for low-resource languages.
+
+- 📄 [CV (PDF)](cv/Lateef_Adeleke_CV.pdf)
+- 🏛️ [Google Scholar](https://scholar.google.com/citations?user=X0P-tGcAAAAJ&hl=en) · 🔗 [ORCID](https://orcid.org/...) · 🐙 [GitHub](https://github.com/LateefAdeleke)
+- ✉️ ladeleke@ur.rochester.edu
+
+# News
+- Oct 2025 — Working on tone-aware ASR for a Nigerian language.
