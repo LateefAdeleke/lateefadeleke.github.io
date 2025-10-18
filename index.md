@@ -61,7 +61,13 @@ My work spans **fieldwork, morphosyntax, tone**, and **deep-learning approaches*
 
 ---
 
-<figure>
-  <img src="/assets/img/IMG_4995.JPG" alt="Fieldwork documentation" width="800" style="border-radius:12px;margin-top:1rem;">
-  <figcaption style="font-size:.9rem;color:#666;">Field recording session, Uneme-Ekpedo (2025)</figcaption>
-</figure>
+<div style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;">
+  <figure style="flex:1;min-width:260px;text-align:center;">
+    <img src="/assets/img/IMG_4995.JPG" alt="Fieldwork session 1" style="width:100%;border-radius:12px;">
+    <figcaption style="font-size:.9rem;color:#666;">Recording session — Uneme-Ekpedo (2024)</figcaption>
+  </figure>
+  <figure style="flex:1;min-width:260px;text-align:center;">
+    <img src="/assets/img/IMG_5015.JPG" alt="Fieldwork session 2" style="width:100%;border-radius:12px;">
+    <figcaption style="font-size:.9rem;color:#666;">Team discussion — Uneme-Nekhua (2024)</figcaption>
+  </figure>
+</div>
