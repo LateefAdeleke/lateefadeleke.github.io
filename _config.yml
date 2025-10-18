@@ -3,5 +3,6 @@ description: "Language Documentation and Description • NLP for low-resource la
 url: "https://lateefadeleke.github.io"
 theme: jekyll-theme-cayman   # simple built-in theme
 markdown: kramdown
+markdown: ![Profile photo](/assets/img/IMG_4798.JPG)
 plugins:
   - jekyll-seo-tag
