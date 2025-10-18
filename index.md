@@ -37,7 +37,7 @@ title: Home
 
 ### Welcome!
 
-I am passionate about documenting under-described languages of West Africa and exploring how insights from linguistic theory can inform computational models for endangered-language technologies.
+I am passionate about documenting and describing under-studied languages of West Africa, making data available in these languages for the community, language researchers, and Natural Language Processing. 
 
 My work spans **fieldwork, morphosyntax, tone**, and **deep-learning approaches** to language documentation.
 
