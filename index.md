@@ -13,14 +13,15 @@ title: Home
 
   <!-- Text Section -->
   <div style="max-width:480px;">
-    <h1 style="margin:.2rem 0 0 0;font-size:2rem;">Lateef Adeleke</h1>
+    <h1 style="margin:.2rem 0 0 0;font-size:2rem;">Welcome!</h1>
     <p style="margin-top:.3rem;font-size:1.1rem;opacity:.9;">
-      Language Documentation and Description· NLP for Low-Resource Languages
+      Language Documentation and Description· Natural Language Processing
     </p>
     <p style="margin-top:1rem;">
       <strong>PhD Student, University of Rochester</strong><br>
-      My research investigates TAMP categories in Benue-Congo languages. I also develop and evaluate deep learning
-      models for <em>Automatic Speech Recognition (ASR)</em> and linguistic analysis especially in low-resource languages.
+      I am passionate about documenting and describing understudied languages; making data available for the community, researchers, and improve language technologies. 
+
+My work spans **fieldwork, morphosyntax, tone**, and **deep-learning approaches** to language documentation and description.
     </p>
 
     <!-- Links -->
@@ -28,18 +29,14 @@ title: Home
       📄 <a href="/cv/Lateef_CV_OCT_2025.pdf" style="color:#fff;text-decoration:underline;">CV (PDF)</a><br>
       🏛️ <a href="https://scholar.google.com/citations?user=X0P-tGcAAAAJ&hl=en" style="color:#fff;text-decoration:underline;">Google Scholar</a> · 
       🐙 <a href="https://github.com/LateefAdeleke" style="color:#fff;text-decoration:underline;">GitHub</a><br>
-      ✉️ <a href="mailto:ladeleke@rochester.edu" style="color:#fff;text-decoration:underline;">email@rochester.edu</a>
+      ✉️ <a href="mailto:ladeleke@rochester.edu" style="color:#fff;text-decoration:underline;">ladeleke@ur.rochester.edu</a>
     </p>
   </div>
 </div>
 
 ---
 
-### Welcome!
 
-I am passionate about documenting and describing understudied languages; making data available for the community, researchers, and improvement in language technologies. 
-
-My work spans **fieldwork, morphosyntax, tone**, and **deep-learning approaches** to language documentation and description.
 
 ---
 
