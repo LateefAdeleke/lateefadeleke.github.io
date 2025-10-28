@@ -18,7 +18,7 @@ title: Home
       Language Documentation and Description· Natural Language Processing
     </p>
     <p style="margin-top:1rem;">
-      <strong>PhD Student, University of Rochester</strong><br>
+      <strong>I am Lateef, PhD Student in the department of Linguistics at the University of Rochester</strong><br>
       I am passionate about documenting and describing understudied languages; making data available for the community, researchers, and improve language technologies. 
 
 My work spans **fieldwork, morphosyntax, tone**, and **deep-learning approaches** to language documentation and description.
