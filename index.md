@@ -15,13 +15,11 @@ title: Home
   <div style="max-width:480px;">
     <h1 style="margin:.2rem 0 0 0;font-size:2rem;">Welcome!</h1>
     <p style="margin-top:.3rem;font-size:1.1rem;opacity:.9;">
-      Language Documentation and Description· Natural Language Processing
+    
     </p>
     <p style="margin-top:1rem;">
       <strong>I am Lateef, PhD Student in the department of Linguistics at the University of Rochester</strong><br>
-      I am passionate about documenting and describing understudied languages; making data available for the community, researchers, and improve language technologies. 
-
-My work spans **fieldwork, morphosyntax, tone**, and **deep-learning approaches** to language documentation and description.
+My interest includes: Fieldwork, Morphosyntax, Tone, and Deep-learning approaches to language documentation and description.
     </p>
 
     <!-- Links -->
