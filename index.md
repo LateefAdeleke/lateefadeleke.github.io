@@ -37,6 +37,14 @@ My interest includes: Fieldwork, Morphosyntax, Tone, and Deep-learning approache
 
 
 ---
+### Research
+I am an interdisciplinary researcher working at the intersection of field linguistics and Natural Language Processing (NLP). My work seeks to bridge the gap between linguistic fieldwork and language technology by documenting and describing underrepresented, low-resource languages. Through this work, I  aim to enhance the representation of these languages and the communities and cultures they represent in the global advancement of language technologies. I approach this by making the insights from fieldwork and linguistic description improve the expressive power of NLP models across diverse languages, while advances in NLP also provide new tools for the scientific study and documentation of underdescribed linguistic systems. My speciality is in African languages and I have several ongoing projects in this area.
+
+---
+
+
+
+---
 
 ### News
 - **Sept 2025 —** Presented at the University of Rochester's Omnibus Meeting.
