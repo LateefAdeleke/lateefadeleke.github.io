@@ -47,8 +47,8 @@ I am an interdisciplinary researcher working at the intersection of field lingui
 ---
 
 ### News
--**2026 —** At the 55th CALL in Leiden, I will give a talk on the "Reflexes of Movement in Uneme"
--**2026 —** At the NbN 2026 in Frankfurt, I will give a talk on the "Sources of TAM Neutralization in Edoid"
+- **2026 —** At the 55th CALL in Leiden, I will give a talk on the "Reflexes of Movement in Uneme"
+- **2026 —** At the NbN 2026 in Frankfurt, I will give a talk on the "Sources of TAM Neutralization in Edoid"
 - **2026 —** At ACAL57 in Buffalo, I will give a talk on "Polarity-Conditioned asymmetries in Uneme"
 - **2026 —** At ACAL57 in Buffalo, I will give a talk on a co-authored paper tittled the "Reflexes of Movement in Uhami" 
 - **2026 —** Attending the 7th AfricaNLP in Rabat, Morocco!
