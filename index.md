@@ -19,7 +19,7 @@ title: Home
     </p>
     <p style="margin-top:1rem;">
       <strong>I am Lateef Adeleke, a PhD candidate in Linguistics at the University of Rochester.</strong><br>
-I work at the intersection of field linguistics, grammatical description, and Natural Language Processing, integrating grammatical theory with language documentation for low-resource and endangered languages.
+I work at the intersection of field linguistics, grammatical description, and Natural Language Processing.
     </p>
 
     <!-- Links -->
@@ -39,9 +39,9 @@ I work at the intersection of field linguistics, grammatical description, and Na
 ---
 ### Research
 
-I am working at the intersection of **language documentation, morphosyntax, and speech technology for low-resource languages**. My work focuses on African languages, and I combine fieldwork, formal grammatical analysis, and neural modeling to build computational systems grounded in real linguistic structure.
+My work focuses on African languages, and I combine fieldwork, formal grammatical analysis, and neural modeling to build computational systems grounded in real linguistic structure.
 
-I am currently leading a multi-year ELDP sponsored documentation project on underdescribed Nigerian languages, where I am developing audio-visual corpora, annotation, and grammatical description. I am also working on how genealogical relatedness, phonological similarity, tone systems, and domain variation affect cross-lingual transfer in Automatic Speech Recognition (ASR).
+I am currently leading a multi-year ELDP sponsored documentation project on Uneme, an underdescribed Nigerian language. I am developing a multimodal corpora, annotation, Unem-English bilingual dictionary, grammatical description, and a Uneme-English bilingual dictionary. I am also working on the influence of genealogical relatedness, phonological similarity, tone systems, and domain variation on cross-lingual transfer in Automatic Speech Recognition (ASR).
 
 ## Research Approach
 
@@ -49,12 +49,12 @@ My work integrates:
 
 - **Field linguistics and corpus creation** (ELAN, FLEx, ELAR archiving)
 - **Formal morphosyntactic analysis** (tense-aspect-polarity systems, negation asymmetries, Distributed Morphology)
-- **Neural modeling and ASR experimentation** (Whisper, Wav2Vec 2.0, AfriHuBERT, MMS)
+- **ASR experimentation** (Whisper, Wav2Vec 2.0, AfriHuBERT, MMS)
 - **Tone-aware and feature-injection methods** for improving performance on tonal and endangered languages
 
 ## Broader Vision
 
-African languages should not remain passive “low-resource benchmarks.” They should actively shape the theory and design of next-generation language technologies.
+African languages should not remain passive “low-resource benchmarks.” They should actively participate in the theory and design of next-generation language technologies.
 
 
 ---
