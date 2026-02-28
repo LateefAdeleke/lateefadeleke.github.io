@@ -38,7 +38,7 @@ My interest includes: Fieldwork, Morphosyntax, Tone, and Deep-learning approache
 
 ---
 ### Research
-I am an interdisciplinary researcher working at the intersection of field linguistics and Natural Language Processing (NLP). My work seeks to bridge the gap between linguistic fieldwork and language technology by documenting and describing underrepresented, low-resource languages. Through this work, I  aim to enhance the representation of these languages and the communities and cultures they represent in the global advancement of language technologies. I approach this by making the insights from fieldwork and linguistic description improve the expressive power of NLP models across diverse languages, while advances in NLP also provide new tools for the scientific study and documentation of underdescribed linguistic systems. My speciality is in African languages and I have several ongoing projects in this area.
+I am an interdisciplinary researcher working at the intersection of field linguistics and Natural Language Processing (NLP). My work seeks to bridge the gap between linguistic fieldwork and language technology by documenting and describing underrepresented, low-resource languages. I  aim to enhance the representation of African languages and the communities and cultures they represent in the global advancement of language technologies. I approach this by making the insights from fieldwork and linguistic description improve the expressive power of NLP models across diverse languages, while advances in NLP also provide new tools for the scientific study and documentation of underdescribed linguistic systems. My speciality is in African languages and I have several ongoing projects in this area.
 
 ---
 
@@ -47,8 +47,10 @@ I am an interdisciplinary researcher working at the intersection of field lingui
 ---
 
 ### News
-- **2026 —** At ACAL57, I will give a talk on Polarity-Conditioned asymmetries in Uneme
-- **2026 —** At ACAL57, I will give a talk on a co-authored paper tittled Reflexes of Movement in Uhami 
+-**2026 —** At the 55th CALL in Leiden, I will give a talk on the "Reflexes of Movement in Uneme"
+-**2026 —** At the NbN 2026 in Frankfurt, I will give a talk on the "Sources of TAM Neutralization in Edoid"
+- **2026 —** At ACAL57 in Buffalo, I will give a talk on "Polarity-Conditioned asymmetries in Uneme"
+- **2026 —** At ACAL57 in Buffalo, I will give a talk on a co-authored paper tittled the "Reflexes of Movement in Uhami" 
 - **2026 —** Attending the 7th AfricaNLP in Rabat, Morocco!
 - **2026 —** Began the second round of data collection for documenting Uneme
 - **Sept 2025 —** Presented at the University of Rochester's Omnibus Meeting.
