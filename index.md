@@ -37,7 +37,7 @@ I work at the intersection of field linguistics, grammatical description, and Na
 
 
 ---
-### Research
+## Research
 
 My work focuses on African languages, and I combine fieldwork, formal grammatical analysis, and neural modeling to build computational systems grounded in real linguistic structure.
 
@@ -63,7 +63,7 @@ African languages should not remain passive “low-resource benchmarks.” They 
 
 ---
 
-### News
+## News
 - **2026 —** At the 55th CALL in Leiden, I will give a talk on the "Reflexes of Movement in Uneme"
 - **2026 —** At the NbN 2026 in Frankfurt, I will give a talk on the "Sources of TAM Neutralization in Edoid"
 - **2026 —** At ACAL57 in Buffalo, I will give a talk on "Polarity-Conditioned asymmetries in Uneme"
