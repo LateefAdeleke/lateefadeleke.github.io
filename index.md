@@ -24,7 +24,7 @@ My interest includes: Fieldwork, Morphosyntax, Tone, and Deep-learning approache
 
     <!-- Links -->
     <p style="margin-top:1rem;">
-      📄 <a href="/cv/Lateef_CV_OCT_2025.pdf" style="color:#fff;text-decoration:underline;">CV (PDF)</a><br>
+      📄 <a href="/cv/Lateef_cv.pdf" style="color:#fff;text-decoration:underline;">CV (PDF)</a><br>
       🏛️ <a href="https://scholar.google.com/citations?user=X0P-tGcAAAAJ&hl=en" style="color:#fff;text-decoration:underline;">Google Scholar</a> · 
       🐙 <a href="https://github.com/LateefAdeleke" style="color:#fff;text-decoration:underline;">GitHub</a><br>
       ✉️ <a href="mailto:ladeleke@rochester.edu" style="color:#fff;text-decoration:underline;">ladeleke@ur.rochester.edu</a>
