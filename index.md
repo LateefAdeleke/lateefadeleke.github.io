@@ -82,12 +82,13 @@ African languages should not remain passive “low-resource benchmarks.” They 
 
 ---
 
-### Current Projects
+## Current Projects
 - Creating an annotated speech corpus for Uneme 
 - Building a multimedia FLEx Dictionary for Uneme
 
 ---
-
+## Field
+---
 <div style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;">
   <figure style="flex:1;min-width:260px;text-align:center;">
     <img src="/assets/img/IMG_4995.JPG" alt="Fieldwork session 1" style="width:100%;border-radius:12px;">
