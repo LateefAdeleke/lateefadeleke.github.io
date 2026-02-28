@@ -47,6 +47,10 @@ I am an interdisciplinary researcher working at the intersection of field lingui
 ---
 
 ### News
+- **2026 —** At ACAL57, I will give a talk on Polarity-Conditioned asymmetries in Uneme
+- **2026 —** At ACAL57, I will give a talk on a co-authored paper tittled Reflexes of Movement in Uhami 
+- **2026 —** Attending the 7th AfricaNLP in Rabat, Morocco!
+- **2026 —** Began the second round of data collection for documenting Uneme
 - **Sept 2025 —** Presented at the University of Rochester's Omnibus Meeting.
 - **June 2025 —** Began data collection for Uneme  documentation.
 - **June 2025 —** Organized training on documentation methods in Nigeria.
