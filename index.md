@@ -18,8 +18,8 @@ title: Home
     
     </p>
     <p style="margin-top:1rem;">
-      <strong>I am Lateef, PhD Student in the department of Linguistics at the University of Rochester</strong><br>
-My interest includes: Fieldwork, Morphosyntax, Tone, and Deep-learning approaches to language documentation and description.
+      <strong>I am Lateef Adeleke, a PhD candidate in Linguistics at the University of Rochester.</strong><br>
+I work at the intersection of field linguistics, grammatical description, and Natural Language Processing, integrating grammatical theory with language documentation for low-resource and endangered languages.
     </p>
 
     <!-- Links -->
@@ -38,7 +38,24 @@ My interest includes: Fieldwork, Morphosyntax, Tone, and Deep-learning approache
 
 ---
 ### Research
-I am an interdisciplinary researcher working at the intersection of field linguistics and Natural Language Processing (NLP). My work seeks to bridge the gap between linguistic fieldwork and language technology by documenting and describing underrepresented, low-resource languages. I  aim to enhance the representation of African languages and the communities and cultures they represent in the global advancement of language technologies. I approach this by making the insights from fieldwork and linguistic description improve the expressive power of NLP models across diverse languages, while advances in NLP also provide new tools for the scientific study and documentation of underdescribed linguistic systems. My speciality is in African languages and I have several ongoing projects in this area.
+
+I am working at the intersection of **language documentation, morphosyntax, and speech technology for low-resource languages**. My work focuses on African languages, and I combine fieldwork, formal grammatical analysis, and neural modeling to build computational systems grounded in real linguistic structure.
+
+I am currently leading a multi-year ELDP sponsored documentation project on underdescribed Nigerian languages, where I am developing audio-visual corpora, annotation, and grammatical description. I am also working on how genealogical relatedness, phonological similarity, tone systems, and domain variation affect cross-lingual transfer in Automatic Speech Recognition (ASR).
+
+## Research Approach
+
+My work integrates:
+
+- **Field linguistics and corpus creation** (ELAN, FLEx, ELAR archiving)
+- **Formal morphosyntactic analysis** (tense-aspect-polarity systems, negation asymmetries, Distributed Morphology)
+- **Neural modeling and ASR experimentation** (Whisper, Wav2Vec 2.0, AfriHuBERT, MMS)
+- **Tone-aware and feature-injection methods** for improving performance on tonal and endangered languages
+
+## Broader Vision
+
+African languages should not remain passive “low-resource benchmarks.” They should actively shape the theory and design of next-generation language technologies.
+
 
 ---
 
