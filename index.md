@@ -41,15 +41,15 @@ I work at the intersection of field linguistics, grammatical description, and Na
 
 My work focuses on African languages, and I combine fieldwork, formal grammatical analysis, and neural modeling to build computational systems grounded in real linguistic structure.
 
-I am currently leading a multi-year ELDP-sponsored documentation project on Uneme, an underdescribed Nigerian language. I am developing a multimodal corpora, annotation, grammatical description, and an Uneme-English bilingual dictionary. I am also working on the influence of genealogical relatedness, phonological similarity, tone systems, and domain variation on cross-lingual transfer in Automatic Speech Recognition (ASR).
+I am currently leading a multi-year ELDP-sponsored documentation project on Uneme, an underdescribed Nigerian language. Through this project, I am developing a multimodal corpora, annotation, grammatical description, and an Uneme-English bilingual dictionary. I am also training an ASR model for Uneme, and working on the influence of genealogical relatedness, phonological similarity, tone systems, and domain variation on cross-lingual transfer in Automatic Speech Recognition (ASR).
 
 ## Research Approach
 
 My work integrates:
 
-- **Field linguistics and corpus creation** (ELAR archiving)
-- **Formal morphosyntactic analysis** (tense-aspect-polarity systems, negation asymmetries, Distributed Morphology)
-- **ASR experimentation** (Whisper, Wav2Vec 2.0, MMS)
+- **Field linguistics and corpus creation** 
+- **Morphosyntactic description and analysis**
+- **ASR experimentation** 
 - **Tone-aware and feature-injection methods** for improving performance on low-resource and endangered languages
 
 ## Broader Vision
