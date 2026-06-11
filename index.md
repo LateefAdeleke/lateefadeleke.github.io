@@ -70,7 +70,7 @@ African languages should not remain underdescribed or passive “low-resource be
 - **2026 —** I gave a talk on "Polarity-Conditioned asymmetries in Uneme" At ACAL57 in Buffalo
 - **2026 —** I gave a talk on "Reflexes of Movement in Uhami" At ACAL57 in Buffalo
 - **2026 —** Presented "Linguistically-informed Evaluation of Multilingual ASR in African Languages" at the 7th AfricaNLP in Rabat
-- - **2026 —** Attended the 19th Conference of the European Chapter of the Association for Computational Linguistics, in Rabat
+- **2026 —** Attended the 19th Conference of the European Chapter of the Association for Computational Linguistics, in Rabat
 - **2026 —** Began the second round of data collection for documenting Uneme
 - **Sept 2025 —** Presented at the University of Rochester's Omnibus Meeting.
 - **June 2025 —** Began data collection for Uneme  documentation.
