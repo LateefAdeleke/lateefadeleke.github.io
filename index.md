@@ -19,8 +19,8 @@ title: Home
     </p>
     <p style="margin-top:1rem;">
       <strong>I am Lateef Adeleke, a PhD candidate in Linguistics at the University of Rochester.</strong><br>
-My work sits at the intersection of language documentation, grammatical analysis, corpus linguistics, and speech technology.
-I study how underdescribed African languages can reshape both linguistic theory and the design of language technologies when they are analyzed through rich fieldwork data, naturalistic speech, and community-grounded documentation.
+My work is at the intersection of language documentation, grammatical analysis, corpus linguistics, and speech technology.
+I study how underdescribed African languages can contribute to linguistic theory and the design of language technologies when they are analyzed through fieldwork data, naturalistic speech, and community-based documentation.
     </p>
 
     <!-- Links -->
@@ -42,17 +42,17 @@ I study how underdescribed African languages can reshape both linguistic theory 
 
 My work focuses on African languages, and I combine fieldwork, formal grammatical analysis, and neural modeling to build computational systems grounded in real linguistic structure.
 
-I am currently leading a multi-year ELDP-sponsored documentation project on Uneme, an underdescribed Nigerian language. Through this project, I am developing a multimodal corpora, annotation, grammatical description, and an Uneme-English bilingual dictionary. I am also training an ASR model for Uneme, and working on the influence of genealogical relatedness, phonological similarity, tone systems, and domain variation on cross-lingual transfer in Automatic Speech Recognition (ASR).
+I am currently leading a multi-year ELDP-sponsored documentation project on Uneme, an underdescribed Nigerian language. Through this project, I am developing a multimodal corpus, annotation, grammatical description, and an Uneme-English bilingual dictionary. I am also training an ASR model for Uneme, and working on the influence of genealogical relatedness, phonological similarity, tone systems, and domain variation on cross-lingual transfer in Automatic Speech Recognition (ASR).
 
 ## Research Approach
 
 My work integrates:
 
-- **Field linguistics and corpus creation** I collect, annotate, and archive naturalistic and elicited language data through community-based fieldwork.
--  **Variation-aware grammatical analysis** I examine how grammar varies across Uneme varieties, speakers, styles, and discourse contexts, with special attention to TAM, negation, focus, tone, and clause structure.
--  **Corpus-accountable grammar writing** I use documentary corpora to build archives, and as evidence for grammatical description, typology, and theory-building.
-- **Low-resource ASR and speech technology** I build and evaluate ASR systems from fieldwork data, focusing on the challenges posed by naturalistic speech, style mismatch, dialectal variation, and tonal contrasts.
-- **Linguistically informed AI evaluation** I study model errors in terms of linguistic structure, asking how speech systems handle tone, morphology, phonological contrasts, and grammatical markers in underdescribed languages.
+- **Field linguistics and corpus creation** I collect, annotate, and archive naturalistic and elicited language data through community-centred fieldwork.
+-  **Variation-aware grammatical analysis** I examine how grammar varies across speech varieties, with special attention to TAM, negation, focus, tone, and clause structure.
+-  **Corpus-accountable grammar writing** I use documentary corpora as evidence for grammatical description, typology, and theory-building.
+- **Low-resource ASR and speech technology** I build and evaluate ASR systems from fieldwork data, with a special focus on the challenges posed by naturalistic speech, style mismatch, dialectal variation, and tonal contrasts.
+- **Linguistically-informed AI evaluation** I study model errors in terms of linguistic structure by investigating how speech systems handle tone, morphology, phonological contrasts, and grammatical markers in underdescribed languages.
 
 ## Broader Vision
 
@@ -67,10 +67,10 @@ African languages should not remain underdescribed or passive “low-resource be
 
 ## News
 - **2026 —** At the 55th CALL in Leiden, I will give a talk on the "Reflexes of Movement in Uneme"
-- **2026 —** At the NbN 2026 in Frankfurt, I will give a talk on the "Sources of TAM Neutralization in Edoid"
-- **2026 —** At ACAL57 in Buffalo, I will give a talk on "Polarity-Conditioned asymmetries in Uneme"
-- **2026 —** At ACAL57 in Buffalo, I will give a talk on a co-authored paper tittled the "Reflexes of Movement in Uhami" 
-- **2026 —** Attending the 7th AfricaNLP in Rabat, Morocco!
+- **2026 —** I gave a talk on "Polarity-Conditioned asymmetries in Uneme" At ACAL57 in Buffalo
+- **2026 —** I gave a talk on "Reflexes of Movement in Uhami" At ACAL57 in Buffalo
+- **2026 —** Presented "Linguistically-informed Evaluation of Multilingual ASR in African Languages" at the 7th AfricaNLP in Rabat
+- - **2026 —** Attended the 19th Conference of the European Chapter of the Association for Computational Linguistics, in Rabat
 - **2026 —** Began the second round of data collection for documenting Uneme
 - **Sept 2025 —** Presented at the University of Rochester's Omnibus Meeting.
 - **June 2025 —** Began data collection for Uneme  documentation.
