@@ -19,7 +19,8 @@ title: Home
     </p>
     <p style="margin-top:1rem;">
       <strong>I am Lateef Adeleke, a PhD candidate in Linguistics at the University of Rochester.</strong><br>
-I work at the intersection of field linguistics, grammatical description, and Natural Language Processing.
+My work sits at the intersection of language documentation, grammatical analysis, corpus linguistics, and speech technology.
+I study how underdescribed African languages can reshape both linguistic theory and the design of language technologies when they are analyzed through rich fieldwork data, naturalistic speech, and community-grounded documentation.
     </p>
 
     <!-- Links -->
@@ -47,14 +48,15 @@ I am currently leading a multi-year ELDP-sponsored documentation project on Unem
 
 My work integrates:
 
-- **Field linguistics and corpus creation** 
-- **Morphosyntactic description and analysis**
-- **ASR experimentation** 
-- **Tone-aware and feature-injection methods** for improving performance on low-resource and endangered languages
+- **Field linguistics and corpus creation** I collect, annotate, and archive naturalistic and elicited language data through community-based fieldwork.
+-  **Variation-aware grammatical analysis** I examine how grammar varies across Uneme varieties, speakers, styles, and discourse contexts, with special attention to TAM, negation, focus, tone, and clause structure.
+-  **Corpus-accountable grammar writing** I use documentary corpora to build archives, and as evidence for grammatical description, typology, and theory-building.
+- **Low-resource ASR and speech technology** I build and evaluate ASR systems from fieldwork data, focusing on the challenges posed by naturalistic speech, style mismatch, dialectal variation, and tonal contrasts.
+- **Linguistically informed AI evaluation** I study model errors in terms of linguistic structure, asking how speech systems handle tone, morphology, phonological contrasts, and grammatical markers in underdescribed languages.
 
 ## Broader Vision
 
-African languages should not remain underdescribed or passive “low-resource benchmarks”. They should actively participate in the theory of language and design of next-generation language technologies.
+African languages should not remain underdescribed or passive “low-resource benchmarks”. They should actively participate in the theory of language and design of next-generation language technologies. My broader goal is to develop research models in which community-grounded documentation, formal grammatical analysis, and computational methods work together. This approach can produce better grammars, better corpora, and better technologies for languages that have historically been underrepresented in both linguistics and AI.
 
 
 ---
