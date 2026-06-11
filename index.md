@@ -56,7 +56,7 @@ My work integrates:
 
 ## Broader Vision
 
-African languages should not remain underdescribed or passive “low-resource benchmarks”. They should actively participate in the theory of language and design of next-generation language technologies. My broader goal is to develop research models in which community-grounded documentation, formal grammatical analysis, and computational methods work together. This approach can produce better grammars, better corpora, and better technologies for languages that have historically been underrepresented in both linguistics and AI.
+African languages should not remain underdescribed or passive “low-resource benchmarks”. They should actively participate in the theory of language and design of next-generation language technologies. My broader goal is to develop research models where documentation, formal grammatical analysis, and computational methods work together. 
 
 
 ---
