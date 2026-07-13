@@ -66,6 +66,7 @@ African languages should not remain underdescribed or passive “low-resource be
 ---
 
 ## News
+- **July 2026 —** Awarded the 2026 NLDSTC Indigenous NLP Excellence Award at the 2026 Nigerian Languages Data and Sci-Tech Conference in Lagos, Nigeria.
 - **2026 —** At the 55th CALL in Leiden, I will give a talk on the "Reflexes of Movement in Uneme"
 - **2026 —** I gave a talk on "Polarity-Conditioned asymmetries in Uneme" At ACAL57 in Buffalo
 - **2026 —** I gave a talk on "Reflexes of Movement in Uhami" At ACAL57 in Buffalo
