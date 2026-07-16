@@ -1,4 +1,4 @@
----
+<img width="250" height="175" alt="huggingface" src="https://github.com/user-attachments/assets/e994d55a-7a40-4228-9175-a79c92dcf991" />---
 layout: default
 title: Home
 ---
@@ -28,7 +28,10 @@ I study how underdescribed African languages can contribute to linguistic theory
       📄 <a href="/cv/Lateef_cv.pdf" style="color:#fff;text-decoration:underline;">CV (PDF)</a><br>
       🏛️ <a href="https://scholar.google.com/citations?user=X0P-tGcAAAAJ&hl=en" style="color:#fff;text-decoration:underline;">Google Scholar</a> · 
       🐙 <a href="https://github.com/LateefAdeleke" style="color:#fff;text-decoration:underline;">GitHub</a><br>
+       <a href="https://huggingface.co/ladeleke" style="color:#fff;text-decoration:underline;">Huggingface</a><br>
       ✉️ <a href="mailto:ladeleke@rochester.edu" style="color:#fff;text-decoration:underline;">ladeleke@ur.rochester.edu</a>
+
+      
     </p>
   </div>
 </div>
