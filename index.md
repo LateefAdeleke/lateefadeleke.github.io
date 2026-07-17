@@ -1,7 +1,3 @@
- />---
-layout: default
-title: Home
----
 
 <!-- ====== Hero Section ====== -->
 <div class="hero" style="display:flex;align-items:center;justify-content:center;gap:2rem;flex-wrap:wrap;padding:3rem 1rem;color:#fff;border-radius:12px;margin-bottom:2rem;background:linear-gradient(135deg,#1f6feb,#2ea043);">
