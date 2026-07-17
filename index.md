@@ -38,9 +38,9 @@ I study how underdescribed African languages can contribute to linguistic theory
 ---
 ## Research
 
-I combine fieldwork, formal grammatical analysis, and neural modeling to build computational systems grounded in real linguistic structure, with a specific focus on African languages.
+I combine dataset creation from fieldwork, formal grammatical analysis, and neural modeling to build computational systems grounded in real linguistic structure, with a specific focus on African languages.
 
-I am currently leading a multi-year ELDP-sponsored documentation project on Uneme, an underdescribed Nigerian language. Through this project, I am developing a multimodal corpus, annotation, grammatical description, and an Uneme-English bilingual dictionary. I am also training an ASR model, and working on the influence of genealogical relatedness, phonological similarity, tone systems, and domain variation on cross-lingual transfer in Automatic Speech Recognition (ASR).
+I am currently leading a multi-year ELDP-sponsored documentation project on Uneme, an underdescribed Nigerian language. Through this project, I am developing a multimodal corpus, annotation, grammatical description, and an Uneme-English bilingual dictionary. I am also training an ASR model and working on the influence of genealogical relatedness, phonological similarity, tone systems, and domain variation on cross-lingual transfer in Automatic Speech Recognition (ASR).
 
 ## Research Approach
 
@@ -85,7 +85,7 @@ African languages should not remain underdescribed or passive “low-resource be
 
 ## Current Projects
 - Creating an annotated speech corpus for Uneme 
-- Building a multimedia FLEx Dictionary for Uneme
+- Building a multimedia FLEx Dictionary for Uneme 
 
 ---
 ## Field
