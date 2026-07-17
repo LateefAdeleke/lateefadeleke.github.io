@@ -1,4 +1,4 @@
-<img width="250" height="175" alt="huggingface" src="https://github.com/user-attachments/assets/e994d55a-7a40-4228-9175-a79c92dcf991" />---
+ />---
 layout: default
 title: Home
 ---
