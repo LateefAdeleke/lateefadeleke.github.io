@@ -22,35 +22,47 @@ description: "Lateef Adeleke is a PhD researcher in linguistics working on low-r
   </div>
 </section>
 
-.credential-link {
-  display: block;
-  color: inherit;
-  text-decoration: none;
-  transition: background .2s ease, transform .2s ease;
-}
+<section class="credential-strip">
+  <div class="shell credential-grid">
 
-.credential-link:hover {
-  background: #f4f8f9;
-  color: inherit;
-  transform: translateY(-2px);
-}
+    <a class="credential credential-link"
+       href="https://www.sas.rochester.edu/lin/news/2025-06-18-adeleke.html"
+       target="_blank"
+       rel="noopener">
+      <strong>ELDP Principal Investigator</strong>
+      <span>Multi-year Uneme documentation project</span>
+      <small>University of Rochester →</small>
+    </a>
 
-.credential-link strong {
-  color: var(--navy);
-}
+    <a class="credential credential-link"
+       href="https://aclanthology.org/2026.africanlp-main.14/"
+       target="_blank"
+       rel="noopener">
+      <strong>AfricaNLP 2026</strong>
+      <span>Linguistically informed ASR evaluation</span>
+      <small>ACL Anthology →</small>
+    </a>
 
-.credential-link span {
-  display: block;
-  color: var(--muted);
-}
+    <a class="credential credential-link"
+       href="https://www.linkedin.com/company/nigerian-languages-data-sci-tech-conference-nldstc"
+       target="_blank"
+       rel="noopener">
+      <strong>Indigenous NLP Excellence Award</strong>
+      <span>NLDSTC Awards · 2026</span>
+      <small>Award announcement →</small>
+    </a>
 
-.credential-link small {
-  display: block;
-  margin-top: .45rem;
-  color: var(--teal);
-  font-size: .72rem;
-  font-weight: 700;
-}
+    <a class="credential credential-link"
+       href="https://www.sas.rochester.edu/lin/news/2025-06-18-adeleke.html"
+       target="_blank"
+       rel="noopener">
+      <strong>Donald M. &amp; Janet C. Barnard Fellow</strong>
+      <span>University of Rochester · 2025–2026</span>
+      <small>Fellowship announcement →</small>
+    </a>
+
+  </div>
+</section>
 <section class="section">
   <div class="shell">
     <div class="section-head">
