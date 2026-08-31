@@ -26,7 +26,7 @@ description: "Lateef Adeleke is a PhD researcher in linguistics working on low-r
   <div class="shell credential-grid">
 
     <a class="credential credential-link"
-       href="https://www.sas.rochester.edu/lin/news/2025-06-18-adeleke.html"
+       href="https://www.elararchive.org/dk0831"
        target="_blank"
        rel="noopener">
       <strong>ELDP Principal Investigator</strong>
