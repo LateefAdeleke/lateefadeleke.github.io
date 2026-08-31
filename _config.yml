@@ -1,7 +1,24 @@
 title: "Lateef Adeleke"
-description: "Researcher in Linguistics • Language Documentation • NLP for low-resource languages"
+description: "PhD researcher in linguistics developing speech technologies, linguistic resources, and computational methods for underdescribed African languages."
 url: "https://lateefadeleke.github.io"
+baseurl: ""
+lang: en-US
+author:
+  name: "Lateef Adeleke"
+  email: "ladeleke@rochester.edu"
+social:
+  name: "Lateef Adeleke"
+  links:
+    - "https://github.com/LateefAdeleke"
+    - "https://scholar.google.com/citations?user=X0P-tGcAAAAJ&hl=en"
+logo: "/assets/img/IMG_DBB163E1E59E-1.jpeg"
 theme: jekyll-theme-cayman
 markdown: kramdown
+permalink: pretty
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
