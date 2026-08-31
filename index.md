@@ -120,13 +120,13 @@ description: "Lateef Adeleke is a PhD researcher in linguistics working on low-r
 
 <section class="section">
   <div class="shell">
-    <div class="section-head"><p class="kicker">Recent highlights</p><h2>Research & recognition</h2></div>
+    <div class="section-head"><p class="kicker">Recent highlights</p><h2>News & recognition</h2></div>
     <div class="news-list">
-      <div class="news-item"><div class="news-year">2026</div><div><strong>Indigenous NLP Excellence Award</strong> — Nigerian Languages Data and Sci-Tech Conference.</div></div>
-      <div class="news-item"><div class="news-year">2026</div><div><strong>AfricaNLP @ EACL</strong> — presented research on linguistically informed evaluation of multilingual ASR in African languages.</div></div>
-      <div class="news-item"><div class="news-year">2026</div><div><strong>ACAL 57</strong> — presented research on polarity-conditioned asymmetries and movement in Edoid languages.</div></div>
-      <div class="news-item"><div class="news-year">2025</div><div><strong>Donald M. and Janet C. Barnard Fellowship</strong> — University of Rochester.</div></div>
-      <div class="news-item"><div class="news-year">2025</div><div><strong>ELDP Individual Graduate Scholarship</strong> — began funded documentation of Uneme language and indigenous iron technology.</div></div>
+      <div class="news-item"><div class="news-year">2026</div><div><strong>Awarded the 2026 Indigenous NLP Excellence Award</strong> — Nigerian Languages Data and Sci-Tech Conference.</div></div>
+      <div class="news-item"><div class="news-year">2026</div><div><strong>EACL</strong> — Attended EACL (19th Conference of the European Chapter of the ACL), Rabat.</div></div>
+      <div class="news-item"><div class="news-year">2025</div><div><strong>  Training</strong> — Completed ELDP Language Documentation Training, Berlin.</div></div>
+      <div class="news-item"><div class="news-year">2025</div><div><strong>Awarded the Donald M. and Janet C. Barnard Fellowship</strong> — University of Rochester.</div></div>
+      <div class="news-item"><div class="news-year">2025</div><div><strong> Awarded ELDP Individual Graduate Scholarship</strong> — began the documentation of Uneme language and indigenous iron technology.</div></div>
     </div>
   </div>
 </section>
