@@ -9,7 +9,7 @@ permalink: /fieldwork/
     <p class="kicker">Fieldwork</p>
     <h1>Research begins with primary language data</h1>
     <p class="lead">
-      The datasets and linguistic analyses behind much of my computational work
+      The datasets and linguistic analyses behind much of my work
       originate in sustained collaboration with speakers and communities in Nigeria.
     </p>
   </div>
@@ -109,14 +109,6 @@ permalink: /fieldwork/
         </p>
       </div>
 
-      <div class="card">
-        <h3>Technology</h3>
-        <p>
-          Field-collected speech is also used to develop and evaluate low-resource
-          ASR systems, connecting documentary methods directly with speech technology.
-        </p>
-      </div>
-
     </div>
 
     <p style="margin-top:1.5rem;">
@@ -132,16 +124,6 @@ permalink: /fieldwork/
 
 <section class="section">
   <div class="shell">
-
-    <div class="section-head">
-      <p class="kicker">Field documentation</p>
-      <h2>Research in the field</h2>
-      <p class="lead">
-        Fieldwork is not simply where examples are collected; it is where decisions
-        about speakers, genres, recording conditions, transcription, and linguistic
-        representation begin.
-      </p>
-    </div>
 
     <div class="gallery">
 
