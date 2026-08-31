@@ -9,7 +9,7 @@ description: "Lateef Adeleke is a PhD researcher in linguistics working on low-r
     <div>
       <p class="eyebrow">Linguistics · Speech Technology · African Languages</p>
       <h1>Lateef Adeleke</h1>
-      <p class="hero-title">PhD Researcher in Linguistics & Low-Resource Language Technology</p>
+      <p class="hero-title">PhD Researcher in Linguistics & Low-Resource Speech & Language Technology</p>
       <p class="hero-copy">I build <strong>datasets, linguistic analyses, and computational tools for underdescribed African languages</strong>. My work connects primary fieldwork with corpus development, grammatical analysis, low-resource speech modeling, and linguistically informed AI evaluation.</p>
       <div class="button-row">
         <a class="btn primary" href="/research/">Explore my research</a>
@@ -22,15 +22,35 @@ description: "Lateef Adeleke is a PhD researcher in linguistics working on low-r
   </div>
 </section>
 
-<section class="credential-strip">
-  <div class="shell credential-grid">
-    <div class="credential"><strong>ELDP Principal Investigator</strong><span>Multi-year Uneme documentation project</span></div>
-    <div class="credential"><strong>AfricaNLP 2026</strong><span>Linguistically informed ASR evaluation</span></div>
-    <div class="credential"><strong>Indigenous NLP Excellence Award</strong><span>2026</span></div>
-    <div class="credential"><strong>Barnard Fellow</strong><span>University of Rochester</span></div>
-  </div>
-</section>
+.credential-link {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+  transition: background .2s ease, transform .2s ease;
+}
 
+.credential-link:hover {
+  background: #f4f8f9;
+  color: inherit;
+  transform: translateY(-2px);
+}
+
+.credential-link strong {
+  color: var(--navy);
+}
+
+.credential-link span {
+  display: block;
+  color: var(--muted);
+}
+
+.credential-link small {
+  display: block;
+  margin-top: .45rem;
+  color: var(--teal);
+  font-size: .72rem;
+  font-weight: 700;
+}
 <section class="section">
   <div class="shell">
     <div class="section-head">
@@ -101,6 +121,64 @@ description: "Lateef Adeleke is a PhD researcher in linguistics working on low-r
 
 <section class="section alt">
   <div class="shell">
-    <div class="section-head"><p class="kicker">Broader vision</p><h2>African languages are more than “low-resource” benchmarks</h2><p class="lead">My long-term goal is to develop research approaches in which language documentation, linguistic theory, corpus development, and machine learning reinforce one another. I am especially interested in technologies that work with the realities of underdescribed languages—limited data, naturalistic speech, tonal and morphological complexity, speaker and dialect variation, and evolving orthographic practices.</p></div>
+    <div class="section-head"><p class="kicker">Broader vision</p><h2>African languages shouldn't remain passive "low-resource benchmarks". They should actively contribute to both linguistic theory and the design of next-generation language technology.</h2><p class="lead">As a long time goal, I want to develop research approaches in which language documentation, linguistic theory, corpus development, and machine learning reinforce one another. I am especially interested in technologies that work with the realities of underdescribed languages—limited data, naturalistic speech, tonal and morphological complexity, speaker and dialect variation.</p></div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="shell">
+    <div class="feature">
+      <div>
+        <p class="kicker">Collaboration</p>
+        <h2>Interested in collaborating?</h2>
+
+        <p>
+          I welcome conversations with researchers, language communities, research labs,
+          and organizations working on low-resource speech technology, African language
+          documentation, speech and text datasets, linguistically informed model evaluation,
+          and computational tools for underdescribed languages.
+        </p>
+
+        <p>
+          I am especially interested in collaborations that connect
+          <strong> data, language structure, and computational modeling</strong>
+          in ways that expand both scientific understanding and technological access.
+        </p>
+
+        <div class="button-row">
+          <a class="btn primary" href="mailto:ladeleke@rochester.edu">
+            Email me
+          </a>
+
+          <a class="btn"
+             href="https://github.com/LateefAdeleke"
+             target="_blank"
+             rel="noopener">
+            GitHub
+          </a>
+
+          <a class="btn"
+             href="https://scholar.google.com/citations?user=X0P-tGcAAAAJ&hl=en"
+             target="_blank"
+             rel="noopener">
+            Google Scholar
+          </a>
+        </div>
+      </div>
+
+      <div class="feature-meta">
+        <strong>Research areas</strong>
+        <p>
+          Low-resource ASR · African languages · Language documentation ·
+          Corpus development · Linguistically informed AI
+        </p>
+
+        <strong>Potential collaborations</strong>
+        <p>
+          Research projects · Speech datasets · Model evaluation ·
+          Language-resource development · Workshops &amp; invited talks
+        </p>
+      </div>
+    </div>
   </div>
 </section>
