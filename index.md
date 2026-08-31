@@ -133,6 +133,85 @@ description: "Lateef Adeleke is a PhD researcher in linguistics working on low-r
 
 <section class="section alt">
   <div class="shell">
+
+    <div class="section-head">
+      <p class="kicker">Scholarly Engagement</p>
+      <h2>Selected Talks &amp; Presentations</h2>
+      <p class="lead">
+        Recent presentations spanning low-resource speech technology,
+        African language structure, grammatical theory, and language documentation.
+      </p>
+    </div>
+
+    <div class="news-list">
+
+      <div class="news-item">
+        <div class="news-year">2026</div>
+        <div>
+          <strong>Linguistically Informed Evaluation of Multilingual ASR in African Languages</strong>
+          <br>
+          <span>7th Workshop on African Natural Language Processing (AfricaNLP), Rabat, Morocco</span>
+        </div>
+      </div>
+
+      <div class="news-item">
+        <div class="news-year">2026</div>
+        <div>
+          <strong>Reflexes of Movement in Uneme</strong>
+          <br>
+          <span>55th Colloquium on African Languages and Linguistics, Leiden</span>
+        </div>
+      </div>
+
+      <div class="news-item">
+        <div class="news-year">2026</div>
+        <div>
+          <strong>Polarity-Conditioned Asymmetries in Uneme</strong>
+          <br>
+          <span>57th Annual Conference on African Linguistics (ACAL 57), Buffalo, New York</span>
+        </div>
+      </div>
+
+      <div class="news-item">
+        <div class="news-year">2026</div>
+        <div>
+          <strong>Reflexes of Movement in Uhami</strong>
+          <br>
+          <span>57th Annual Conference on African Linguistics (ACAL 57), Buffalo, New York</span>
+        </div>
+      </div>
+
+      <div class="news-item">
+        <div class="news-year">2025</div>
+        <div>
+          <strong>Research Presentation</strong>
+          <br>
+          <span>Department of Linguistics Omnibus Meeting, University of Rochester</span>
+        </div>
+      </div>
+
+      <div class="news-item">
+        <div class="news-year">2025</div>
+        <div>
+          <strong>Morphosyntax of TAM and Negation in Uhami</strong>
+          <br>
+          <span>56th Annual Conference on African Linguistics (ACAL 56), University of Minnesota</span>
+        </div>
+      </div>
+
+    </div>
+
+    <p style="margin-top:1.5rem;">
+      <a href="/cv/">
+        <strong>See full academic record →</strong>
+      </a>
+    </p>
+
+  </div>
+</section>
+
+<section class="section alt">
+  <div class="shell">
     <div class="section-head"><p class="kicker">Broader vision</p><h2>African languages shouldn't remain passive "low-resource benchmarks". They should actively contribute to both linguistic theory and the design of next-generation language technology.</h2><p class="lead">As a long time goal, I want to develop research approaches in which language documentation, linguistic theory, corpus development, and machine learning reinforce one another. I am especially interested in technologies that work with the realities of underdescribed languages—limited data, naturalistic speech, tonal and morphological complexity, speaker and dialect variation.</p></div>
   </div>
 </section>
