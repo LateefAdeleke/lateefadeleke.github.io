@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: "Lateef Adeleke | Low-Resource Language Technology & Linguistics"
 description: "Lateef Adeleke is a PhD researcher in linguistics working on low-resource speech technology, language documentation, African languages, and linguistically informed AI."
 ---
 
