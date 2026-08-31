@@ -7,7 +7,7 @@ permalink: /fieldwork/
 <section class="page-hero">
   <div class="shell">
     <p class="kicker">Fieldwork</p>
-    <h1>Research begins with primary language data</h1>
+    <h1>Community-centred fieldwork</h1>
     <p class="lead">
       The datasets and linguistic analyses behind much of my work
       originate in sustained collaboration with speakers and communities in Nigeria.
