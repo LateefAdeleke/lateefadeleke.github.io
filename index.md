@@ -1,126 +1,106 @@
+---
+layout: default
+title: Home
+description: "Lateef Adeleke is a PhD researcher in linguistics working on low-resource speech technology, language documentation, African languages, and linguistically informed AI."
+---
 
-<!-- ====== Hero Section ====== -->
-<div class="hero" style="display:flex;align-items:center;justify-content:center;gap:2rem;flex-wrap:wrap;padding:3rem 1rem;color:#fff;border-radius:12px;margin-bottom:2rem;background:linear-gradient(135deg,#1f6feb,#2ea043);">
-
-  <!-- Profile Image -->
-  <div style="flex:0 0 180px;text-align:center;">
-    <img src="/assets/img/IMG_DBB163E1E59E-1.jpeg" alt="Lateef Adeleke" style="width:180px;height:180px;border-radius:50%;object-fit:cover;border:4px solid #fff;">
+<section class="hero">
+  <div class="shell hero-grid">
+    <div>
+      <p class="eyebrow">Linguistics · Speech Technology · African Languages</p>
+      <h1>Lateef Adeleke</h1>
+      <p class="hero-title">PhD Researcher in Linguistics & Low-Resource Language Technology</p>
+      <p class="hero-copy">I build <strong>datasets, linguistic analyses, and computational tools for underdescribed African languages</strong>. My work connects primary fieldwork with corpus development, grammatical analysis, low-resource speech modeling, and linguistically informed AI evaluation.</p>
+      <div class="button-row">
+        <a class="btn primary" href="/research/">Explore my research</a>
+        <a class="btn" href="/cv/Lateef_cv.pdf">CV</a>
+        <a class="btn" href="https://scholar.google.com/citations?user=X0P-tGcAAAAJ&hl=en">Google Scholar</a>
+        <a class="btn" href="https://github.com/LateefAdeleke">GitHub</a>
+      </div>
+    </div>
+    <img class="hero-photo" src="/assets/img/IMG_DBB163E1E59E-1.jpeg" alt="Portrait of Lateef Adeleke">
   </div>
+</section>
 
-  <!-- Text Section -->
-  <div style="max-width:480px;">
-    <h1 style="margin:.2rem 0 0 0;font-size:2rem;">Welcome!</h1>
-    <p style="margin-top:.3rem;font-size:1.1rem;opacity:.9;">
-    
-    </p>
-    <p style="margin-top:1rem;">
-      <strong>I am a PhD candidate in Linguistics at the University of Rochester. My research asks how primary linguistic data from underdescribed African languages can support both better theories of language and more inclusive language technologies. I am asking what it takes to make language technology work for languages with limited or no digital footprint.
-    </p>
-
-    <!-- Links -->
-    <p style="margin-top:1rem;">
-      📄 <a href="/cv/Lateef_cv.pdf" style="color:#fff;text-decoration:underline;">CV (PDF)</a><br>
-      🏛️ <a href="https://scholar.google.com/citations?user=X0P-tGcAAAAJ&hl=en" style="color:#fff;text-decoration:underline;">Google Scholar</a> · 
-      🐙 <a href="https://github.com/LateefAdeleke" style="color:#fff;text-decoration:underline;">GitHub</a><br>
-      ✉️ <a href="mailto:ladeleke@rochester.edu" style="color:#fff;text-decoration:underline;">ladeleke@ur.rochester.edu</a>
-
-      
-    </p>
+<section class="credential-strip">
+  <div class="shell credential-grid">
+    <div class="credential"><strong>ELDP Principal Investigator</strong><span>Multi-year Uneme documentation project</span></div>
+    <div class="credential"><strong>AfricaNLP 2026</strong><span>Linguistically informed ASR evaluation</span></div>
+    <div class="credential"><strong>Indigenous NLP Excellence Award</strong><span>2026</span></div>
+    <div class="credential"><strong>Barnard Fellow</strong><span>University of Rochester</span></div>
   </div>
-</div>
+</section>
 
----
+<section class="section">
+  <div class="shell">
+    <div class="section-head">
+      <p class="kicker">Research program</p>
+      <h2>From primary language data to better language technology</h2>
+      <p class="lead">I work across a research pipeline that is often split across different disciplines: collecting and documenting language data, turning it into structured corpora, analyzing linguistic systems and variation, training computational models, and using linguistic knowledge to understand model behavior.</p>
+    </div>
+    <div class="grid-3">
+      <article class="card"><h3>Low-Resource Speech Technology</h3><p>ASR, cross-lingual transfer, data-efficient adaptation, naturalistic speech, style mismatch, tonal contrasts, and robust evaluation for languages with limited training data.</p><div class="tag-row"><span class="tag">ASR</span><span class="tag">Whisper</span><span class="tag">XLS-R</span><span class="tag">Cross-lingual transfer</span></div></article>
+      <article class="card"><h3>Documentation, Corpora & Resources</h3><p>Community-based fieldwork, audiovisual documentation, annotation, corpus building, lexical resources, bilingual dictionaries, and archival workflows designed for both linguistic and computational reuse.</p><div class="tag-row"><span class="tag">ELAN</span><span class="tag">FLEx</span><span class="tag">ELAR</span><span class="tag">Corpus design</span></div></article>
+      <article class="card"><h3>Grammar, Variation & AI Evaluation</h3><p>Tense, aspect, negation, grammatical tone, focus, clause structure, variation, and model-error analysis grounded in language-specific phonology and grammar.</p><div class="tag-row"><span class="tag">Tone</span><span class="tag">TAM</span><span class="tag">Variation</span><span class="tag">Error analysis</span></div></article>
+    </div>
+  </div>
+</section>
 
-## Flagship Project: Cross-Lingual Transfer in Low-Resource ASR
+<section class="section alt">
+  <div class="shell">
+    <div class="section-head"><p class="kicker">How I work</p><h2>Documentation and technology as one research ecosystem</h2></div>
+    <div class="pipeline">
+      <div class="step"><span>01</span><strong>Fieldwork</strong></div>
+      <div class="step"><span>02</span><strong>Documentation</strong></div>
+      <div class="step"><span>03</span><strong>Annotated corpora</strong></div>
+      <div class="step"><span>04</span><strong>Grammar & variation</strong></div>
+      <div class="step"><span>05</span><strong>Speech / NLP models</strong></div>
+      <div class="step"><span>06</span><strong>Linguistic evaluation</strong></div>
+    </div>
+  </div>
+</section>
 
-What makes a language technology trained on one language transfer well to another with limited data? I study how **genealogical relatedness, phonological similarity, tone systems, and domain variation** predict successful cross-lingual transfer — using Uneme, an Edoid language of Nigeria, as the core test case. The goal is a generalizable framework, not a one-off result: a method that works for any tonal, low-resource, underdescribed language, not just Uneme.
+<section class="section">
+  <div class="shell">
+    <div class="feature">
+      <div>
+        <p class="kicker">Featured publication</p>
+        <h2>Linguistically Informed Evaluation of Multilingual ASR for African Languages</h2>
+        <p>Standard aggregate metrics can obscure what speech systems actually learn about low-resource tonal languages. This work evaluates multilingual ASR on Yorùbá and Uneme with character-, phonological-feature-, and tone-sensitive measures, revealing systematic model behavior hidden by word-level accuracy alone.</p>
+        <p><a href="https://aclanthology.org/2026.africanlp-main.14/">Read on ACL Anthology →</a></p>
+      </div>
+      <div class="feature-meta"><strong>AfricaNLP 2026 · EACL</strong><p>Fei-Yueh Chen, Lateef Adeleke & C. M. Downey</p><strong>Focus</strong><p>Multilingual ASR · African languages · phonological evaluation · tone</p><strong>Languages</strong><p>Yorùbá · Uneme</p></div>
+    </div>
+  </div>
+</section>
 
----
-## Research Focus
+<section class="section alt">
+  <div class="shell">
+    <div class="section-head"><p class="kicker">Featured project</p><h2>Documenting Uneme language, variation, and indigenous knowledge</h2><p class="lead">I lead an ELDP-supported, multi-year documentation project on Uneme, an Edoid language of Nigeria. The project combines naturalistic audiovisual documentation with corpus development, grammatical analysis, lexical resources, archival outputs, and speech technology.</p></div>
+    <div class="grid-3">
+      <div class="card"><h3>Document</h3><p>Naturalistic discourse, oral histories, cultural practices, traditional knowledge, material culture, and targeted linguistic elicitation.</p></div>
+      <div class="card"><h3>Structure</h3><p>Transcription, annotation, grammatical analysis, variation across communities, and an Uneme–English multimedia lexical resource.</p></div>
+      <div class="card"><h3>Model</h3><p>Speech datasets and low-resource ASR experiments that test how modern models handle naturalistic, tonal, and highly constrained-data conditions.</p></div>
+    </div>
+    <p style="margin-top:1.5rem"><a href="/projects/"><strong>Explore projects and resources →</strong></a></p>
+  </div>
+</section>
 
-**Speech technology from fieldwork data.** I build and evaluate ASR systems using naturalistic, community-collected speech — which means confronting style mismatch, dialectal variation, tonal contrast, and domain-specific vocabulary head-on rather than assuming clean input.
+<section class="section">
+  <div class="shell">
+    <div class="section-head"><p class="kicker">Recent highlights</p><h2>Research & recognition</h2></div>
+    <div class="news-list">
+      <div class="news-item"><div class="news-year">2026</div><div><strong>Indigenous NLP Excellence Award</strong> — Nigerian Languages Data and Sci-Tech Conference.</div></div>
+      <div class="news-item"><div class="news-year">2026</div><div><strong>AfricaNLP @ EACL</strong> — presented research on linguistically informed evaluation of multilingual ASR in African languages.</div></div>
+      <div class="news-item"><div class="news-year">2026</div><div><strong>ACAL 57</strong> — presented research on polarity-conditioned asymmetries and movement in Edoid languages.</div></div>
+      <div class="news-item"><div class="news-year">2025</div><div><strong>Donald M. and Janet C. Barnard Fellowship</strong> — University of Rochester.</div></div>
+      <div class="news-item"><div class="news-year">2025</div><div><strong>ELDP Individual Graduate Scholarship</strong> — began funded documentation of Uneme language and indigenous iron technology.</div></div>
+    </div>
+  </div>
+</section>
 
-**Language documentation as data infrastructure.** I lead a multi-year, ELDP-funded documentation project on Uneme, producing a multimodal corpus, grammatical description, and an Uneme–English bilingual dictionary, [archived with ELAR](https://www.elararchive.org/dk0831) — through fieldwork that follows real consent and archival standards.
-
-**Linguistically-informed AI evaluation.** I analyze model errors in terms of linguistic structure — how speech systems handle tone, morphology, and phonological contrasts in underdescribed languages — rather than treating error rate as a black box.
-
-**Grammatical theory grounded in corpus evidence.** I use documentary corpora as direct evidence for grammatical description and typology, with ongoing work on TAM, negation, focus, and clause structure.
-
-
----
-
-## Talks & Presentations
-
-- **2026** — "Linguistically-informed Evaluation of Multilingual ASR in African Languages" — 7th AfricaNLP, Rabat
-- **2026** — "Reflexes of Movement in Uneme" — 55th Annual Conference on African Linguistics (CALL), Leiden
-- **2026** — "Polarity-Conditioned Asymmetries in Uneme" — ACAL57, Buffalo
-- **2026** — "Reflexes of Movement in Uhami" — ACAL57, Buffalo
-- **2025** — Presented at the University of Rochester Omnibus Meeting
-- **2025** — "Morphosyntax of TAM and Negation in Uhami" — 56th ACAL, University of Minnesota
-
----
-
-
-## News & Recognition
-
-- **July 2026** — Awarded the 2026 Indigenous NLP Excellence Award, Nigerian Languages Data and Sci-Tech Conference, Lagos
-- **2026** — Attended EACL (19th Conference of the European Chapter of the ACL), Rabat
-- **2026** — Began second round of Uneme data collection
-- **Sept 2025** — Awarded the Donald M. and Janet C. Barnard Fellowship
-- **June 2025** — Organized training on documentation methods in Nigeria
-- **June 2025** — Began primary data collection for Uneme documentation
-- **May 2025** — Completed ELDP Language Documentation Training, Berlin
-- **April 2025** — Awarded ELDP Individual Graduate Scholarship to document Uneme Iron Technology
-
----
-
-## Current Projects
-
-- **Uneme ASR model** — training and evaluating speech recognition on fieldwork-derived audio
-- **Cross-lingual transfer study** — predicting transfer success via domain/genealogical-relatedness, phonology, and tone
-- **Uneme annotated speech corpus** — multimodal, [archived with ELAR](https://www.elararchive.org/dk0831)
-- **Uneme–English FLEx dictionary** — community-facing bilingual resource
-
----
-## Broader Vision
-
-African languages should not remain underdescribed or passive “low-resource benchmarks”. They should actively participate in the theory of language and design of next-generation language technologies. My broader goal is to develop data and research models where documentation, formal grammatical analysis, and computational methods work together. 
-
-
-
-
-
-
----
-
-
-
----
-## Field
----
-<div style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;">
-  <figure style="flex:1;min-width:260px;text-align:center;">
-    <img src="/assets/img/IMG_4995.JPG" alt="Fieldwork session 1" style="width:100%;border-radius:12px;">
-    <figcaption style="font-size:.9rem;color:#666;">David and Kayode during a recording session — Uneme-Ekpedo (2025)</figcaption>
-  </figure>
-  <figure style="flex:1;min-width:260px;text-align:center;">
-    <img src="/assets/img/IMG_5015.JPG" alt="Fieldwork session 2" style="width:100%;border-radius:12px;">
-    <figcaption style="font-size:.9rem;color:#666;">Elders playing the traditional board game — Uneme-Ekpedo (2025)</figcaption>
-  </figure>
-</div>
-
-<!-- Row 2 -->
-<div style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;margin-top:1rem;">
-  <figure style="flex:1;min-width:260px;text-align:center;">
-    <img src="/assets/img/gbenga.png" style="width:100%;border-radius:12px;">
-    <figcaption style="font-size:.9rem;color:#666;">Elicitation session with Gabriel — Uneme-Ekpedo (2025)</figcaption>
-  </figure>
-  <figure style="flex:1;min-width:260px;text-align:center;">
-    <img src="/assets/img/lawal.png" style="width:100%;border-radius:12px;">
-    <figcaption style="font-size:.9rem;color:#666;">Narrative Session with Hon. Lawal — Uneme-Ekpedo (2025)</figcaption>
-  </figure>
-</div>
-
-## Get in Touch
-
-I'm always glad to connect with researchers, community members, or collaborators working on language documentation, low-resource speech technology, or African linguistics.
+<section class="section alt">
+  <div class="shell">
+    <div class="section-head"><p class="kicker">Broader vision</p><h2>African languages are more than “low-resource” benchmarks</h2><p class="lead">My long-term goal is to develop research approaches in which language documentation, linguistic theory, corpus development, and machine learning reinforce one another. I am especially interested in technologies that work with the realities of underdescribed languages—limited data, naturalistic speech, tonal and morphological complexity, speaker and dialect variation, and evolving orthographic practices.</p></div>
+  </div>
+</section>
