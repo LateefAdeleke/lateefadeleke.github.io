@@ -82,14 +82,14 @@ permalink: /research/
 
         <p>
           Word Error Rate and Character Error Rate are useful, but they can collapse
-          linguistically different error types into a single score. My work develops
+          linguistically different error types into a single score. Our work develops
           and applies evaluation approaches that ask which phonological, tonal,
           morphological, and grammatical distinctions are preserved or lost by a model.
         </p>
 
         <p>
-          This direction is represented by my AfricaNLP 2026 work on multilingual ASR
-          for Yorùbá and Uneme, where phonological-feature and tone-sensitive evaluation
+          This direction is represented by our recent AfricaNLP 2026 work on multilingual ASR
+          for African languages, where phonological-feature and tone-sensitive evaluation
           reveals systematic model behavior that word-level accuracy alone cannot show.
         </p>
 
