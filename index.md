@@ -212,7 +212,26 @@ description: "Lateef Adeleke is a PhD researcher in linguistics working on low-r
 
 <section class="section alt">
   <div class="shell">
-    <div class="section-head"><p class="kicker">Broader vision</p><h2>African languages shouldn't remain passive "low-resource benchmarks". They should actively contribute to both linguistic theory and the design of next-generation language technology.</h2><p class="lead">As a long time goal, I want to develop research approaches in which language documentation, linguistic theory, corpus development, and machine learning reinforce one another. I am especially interested in technologies that work with the realities of underdescribed languages—limited data, naturalistic speech, tonal and morphological complexity, speaker and dialect variation.</p></div>
+    <div class="section-head">
+
+      <p class="kicker">Broader vision</p>
+
+      <p class="lead">
+        African languages shouldn't remain passive "low-resource benchmarks".
+        They should actively contribute to both linguistic theory and the design
+        of next-generation language technology.
+      </p>
+
+      <p class="lead">
+        As a long-term goal, I want to develop research approaches in which
+        language documentation, linguistic theory, corpus development, and
+        machine learning reinforce one another. I am especially interested in
+        technologies that work with the realities of underdescribed languages—
+        limited data, naturalistic speech, tonal and morphological complexity,
+        and speaker and dialect variation.
+      </p>
+
+    </div>
   </div>
 </section>
 
