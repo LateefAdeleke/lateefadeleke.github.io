@@ -13,7 +13,7 @@ description: "Lateef Adeleke is a PhD researcher in linguistics working on low-r
       <p class="hero-copy">I build <strong>datasets, linguistic analyses, and computational tools for underdescribed African languages</strong>. My work connects primary fieldwork with corpus development, grammatical analysis, low-resource speech modeling, and linguistically informed AI evaluation.</p>
       <div class="button-row">
         <a class="btn primary" href="/research/">Explore my research</a>
-        <a class="btn" href="/cv/Lateef_cv.pdf">CV</a>
+        <a class="btn" href="/cv/LATEEF_ADETUNJI_ADELEKE_CV.pdf">CV</a>
         <a class="btn" href="https://scholar.google.com/citations?user=X0P-tGcAAAAJ&hl=en">Google Scholar</a>
         <a class="btn" href="https://github.com/LateefAdeleke">GitHub</a>
       </div>
@@ -71,7 +71,7 @@ description: "Lateef Adeleke is a PhD researcher in linguistics working on low-r
       <p class="lead">I work across a research pipeline that is often split across different disciplines: collecting and documenting language data, turning it into structured corpora, analyzing linguistic systems and variation, training computational models, and using linguistic knowledge to understand model behavior.</p>
     </div>
     <div class="grid-3">
-      <article class="card"><h3>Low-Resource Speech Technology</h3><p>ASR, cross-lingual transfer, data-efficient adaptation, naturalistic speech, style mismatch, tonal contrasts, and robust evaluation for languages with limited training data.</p><div class="tag-row"><span class="tag">ASR</span><span class="tag">Whisper</span><span class="tag">XLS-R</span><span class="tag">Cross-lingual transfer</span></div></article>
+      <article class="card"><h3>Low-Resource Speech Technology</h3><p>ASR, cross-lingual transfer, data-efficient adaptation, naturalistic speech, style mismatch, and robust evaluation for languages with limited training data.</p><div class="tag-row"><span class="tag">ASR</span><span class="tag">Whisper</span><span class="tag">XLS-R</span><span class="tag">Cross-lingual transfer</span></div></article>
       <article class="card"><h3>Documentation, Corpora & Resources</h3><p>Community-based fieldwork, audiovisual documentation, annotation, corpus building, lexical resources, multilingual dictionaries, and archival workflows designed for both linguistic and computational reuse.</p><div class="tag-row"><span class="tag">ELAN</span><span class="tag">FLEx</span><span class="tag">ELAR</span><span class="tag">Corpus design</span></div></article>
       <article class="card"><h3>Grammar, Variation & AI Evaluation</h3><p>Tense, aspect, negation, grammatical tone, clause structure, variation, and model-error analysis grounded in language-specific phonology and grammar.</p><div class="tag-row"><span class="tag">Tone</span><span class="tag">TAM</span><span class="tag">Variation</span><span class="tag">Error analysis</span></div></article>
     </div>
