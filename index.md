@@ -9,7 +9,7 @@ description: "Lateef Adeleke is a PhD researcher in linguistics working on low-r
     <div>
       <p class="eyebrow">Linguistics · Speech Technology · African Languages</p>
       <h1>Lateef Adeleke</h1>
-      <p class="hero-title">PhD Researcher in Linguistics & Low-Resource Speech & Language Technology</p>
+      <p class="hero-title">PhD Researcher in Linguistics & Low-Resource Language Technology</p>
       <p class="hero-copy">I build <strong>datasets, linguistic analyses, and computational tools for underdescribed African languages</strong>. My work connects primary fieldwork with corpus development, grammatical analysis, low-resource speech modeling, and linguistically informed AI evaluation.</p>
       <div class="button-row">
         <a class="btn primary" href="/research/">Explore my research</a>
@@ -73,7 +73,7 @@ description: "Lateef Adeleke is a PhD researcher in linguistics working on low-r
     <div class="grid-3">
       <article class="card"><h3>Low-Resource Speech Technology</h3><p>ASR, cross-lingual transfer, data-efficient adaptation, naturalistic speech, style mismatch, and robust evaluation for languages with limited training data.</p><div class="tag-row"><span class="tag">ASR</span><span class="tag">Whisper</span><span class="tag">XLS-R</span><span class="tag">Cross-lingual transfer</span></div></article>
       <article class="card"><h3>Documentation, Corpora & Resources</h3><p>Community-based fieldwork, audiovisual documentation, annotation, corpus building, lexical resources, multilingual dictionaries, and archival workflows designed for both linguistic and computational reuse.</p><div class="tag-row"><span class="tag">ELAN</span><span class="tag">FLEx</span><span class="tag">ELAR</span><span class="tag">Corpus design</span></div></article>
-      <article class="card"><h3>Grammar, Variation & AI Evaluation</h3><p>Tense, aspect, negation, grammatical tone, clause structure, variation, and model-error analysis grounded in language-specific phonology and grammar.</p><div class="tag-row"><span class="tag">Tone</span><span class="tag">TAM</span><span class="tag">Variation</span><span class="tag">Error analysis</span></div></article>
+      <article class="card"><h3>Grammar, Variation & AI Evaluation</h3><p>Tense, aspect, negation, grammatical tone, clause structure, variation, and model-error analysis.</p><div class="tag-row"><span class="tag">Tone</span><span class="tag">TAM</span><span class="tag">Variation</span><span class="tag">Error analysis</span></div></article>
     </div>
   </div>
 </section>
@@ -95,7 +95,7 @@ description: "Lateef Adeleke is a PhD researcher in linguistics working on low-r
 
 <section class="section alt">
   <div class="shell">
-    <div class="section-head"><p class="kicker">Featured project</p><h2>Documenting Uneme language, variation, and indigenous knowledge</h2><p class="lead">I lead an ELDP-supported, multi-year documentation project on Uneme, an Edoid language of Nigeria. The project combines naturalistic audiovisual documentation with corpus development, grammatical analysis, lexical resources, archival outputs, and speech technology.</p></div>
+    <div class="section-head"><p class="kicker">Featured project</p><h2>Documenting Uneme language, variation, and indigenous knowledge</h2><p class="lead">I lead an ELDP-funded, multi-year documentation project on Uneme, an Edoid language of Nigeria. The project combines naturalistic audiovisual documentation with corpus development, grammatical analysis, lexical resources, archival outputs, and speech technology.</p></div>
     <div class="grid-3">
       <div class="card"><h3>Document</h3><p>Naturalistic discourse, oral histories, cultural practices, traditional knowledge, material culture, and targeted linguistic elicitation.</p></div>
       <div class="card"><h3>Structure</h3><p>Transcription, annotation, grammatical analysis, variation across communities, and an Uneme–English multimedia lexical resource.</p></div>
